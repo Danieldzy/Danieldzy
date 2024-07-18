@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://www.linkedin.com/in/joshmadakor/](https://www.linkedin.com/in/daniel-zhiyi-deng-65a0052b3/)">Cybersecurity Professional</a>
+<h1>Hi, I'm Daniel! <br/><a href="https://www.linkedin.com/in/daniel-zhiyi-deng-65a0052b3/)">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
