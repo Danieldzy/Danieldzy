@@ -7,7 +7,7 @@
 - <b>SIEM Project</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Python and Bash for log parsing and Automation</b>
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Python and Bash script](https://github.com/Danieldzy/Python-parse-log-and-Bash-automation)
 
 <h2>Certifications</h2>
 
