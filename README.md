@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Microsoft Active Directory Home Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - 
 - <b>SIEM Project</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - 
 - <b>Python and Bash for log parsing and Automation</b>
   - [Python and Bash script](https://github.com/Danieldzy/Python-parse-log-and-Bash-automation)
 
