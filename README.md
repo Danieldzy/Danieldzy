@@ -4,11 +4,10 @@
 
 - <b>Microsoft Active Directory Home Lab</b>
   - 
-- <b>SIEM Project</b>
-  - 
 - <b>Python and Bash for log parsing and Automation</b>
   - [Python and Bash script](https://github.com/Danieldzy/Python-parse-log-and-Bash-automation)
-
+- <b>My SQL Project</b>
+  - [SQL](https://github.com/Danieldzy/DanielProject)
 <h2>Certifications</h2>
 
 <h2> 🤳 Connect with me:</h2>
