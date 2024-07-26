@@ -4,6 +4,8 @@
 
 - <b>Microsoft Active Directory Home Lab</b>
   - 
+- <b>OpenVas Scan to identify vulnerability of a system</b>
+  -
 - <b>Python and Bash for log parsing and Automation</b>
   - [Python and Bash script](https://github.com/Danieldzy/Python-parse-log-and-Bash-automation)
 - <b>My SQL Project</b>
