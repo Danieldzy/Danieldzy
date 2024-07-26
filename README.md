@@ -4,7 +4,7 @@
 
 - <b>Microsoft Active Directory Home Lab</b>
   - 
-- <b>OpenVas Scan to identify vulnerability of a system</b>
+- <b>OpenVas Scan to identify the vulnerability of a system</b>
   - [Vulnerability Scan](https://github.com/Danieldzy/OpenVas-Nessus)
 - <b>Python and Bash for log parsing and Automation</b>
   - [Python and Bash script](https://github.com/Danieldzy/Python-parse-log-and-Bash-automation)
