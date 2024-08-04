@@ -1,6 +1,6 @@
 <h1>Hi, I'm Daniel! <br/><a href="https://www.linkedin.com/in/daniel-zhiyi-deng-65a0052b3/)">Cybersecurity Professional and System Admin</a>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
 
 - <b>Microsoft Active Directory Home Lab</b>
   - 
