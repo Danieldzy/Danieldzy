@@ -12,7 +12,10 @@
   - [Python and Bash script](https://github.com/Danieldzy/Python-parse-log-and-Bash-automation)
 - <b>My SQL Project</b>
   - [SQL](https://github.com/Danieldzy/DanielProject)
+    
 <h2>Certifications</h2>
+(https://www.credly.com/users/zhiyi-deng)
+(https://badgr.com/public/collections/a978e4f9c4f5481283452eff109a42b8)
 
 <h2> 🤳 Connect with me:</h2>
 
