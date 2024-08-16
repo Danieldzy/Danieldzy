@@ -14,8 +14,8 @@
   - [SQL](https://github.com/Danieldzy/DanielProject)
     
 <h2>Certifications</h2>
-(https://www.credly.com/users/zhiyi-deng)
-(https://badgr.com/public/collections/a978e4f9c4f5481283452eff109a42b8)
+<a href="https://www.credly.com/users/zhiyi-deng" target="_blank" rel="noopener noreferrer">Credly</a><br>
+<a href="https://badgr.com/public/collections/a978e4f9c4f5481283452eff109a42b8" target="_blank" rel="noopener noreferrer">Badgr</a>
 
 <h2> 🤳 Connect with me:</h2>
 
