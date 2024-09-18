@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://www.linkedin.com/in/daniel-zhiyi-deng-65a0052b3/)">Cybersecurity Professional and System Admin</a>
+<h1>Hi, I'm Daniel! <br/><a href="https://www.linkedin.com/in/daniel-zhiyi-deng-65a0052b3/)">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -9,7 +9,7 @@
 - <b>Who steal the recipe? A Digital Forensic Process </b>
   - [Digital Forensics Project](https://github.com/Danieldzy/Who-steal-the-recipe-A-Digital-Forensic-Process-)
  
-<h2>💻 Microsoft Active Directory Projects:</h2>
+<h2>💻 System Administrator Projects:</h2>
 
 - <b>Microsoft Active Directory Home Lab</b>
   - [Active Directory DC](https://github.com/Danieldzy/Windows-Server-Active-Directory-management)
