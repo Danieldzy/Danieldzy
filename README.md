@@ -15,7 +15,7 @@
 - <b>Microsoft Active Directory Home Lab</b>
   - [Active Directory DC](https://github.com/Danieldzy/Windows-Server-Active-Directory-management)
 
-<h2>📜 Program Language and Scripting Projects:</h2>
+<h2>📜 SQL, Python, Bash:</h2>
 
 - <b>Python and Bash for log parsing and Automation</b>
   - [Python and Bash script](https://github.com/Danieldzy/Python-parse-log-and-Bash-automation)
