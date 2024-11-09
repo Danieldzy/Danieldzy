@@ -1,6 +1,5 @@
 <h1>Hi, I'm Daniel! <br/><a href="https://www.linkedin.com/in/daniel-zhiyi-deng-65a0052b3/)">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Breach Investigation and Incident Report</b>
   - [Investigation and Report](https://github.com/Danieldzy/Data-Breach-Discovery-and-Incident-Report-How-Penetration-Testing-Could-Have-Prevented-the-Incident)
