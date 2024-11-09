@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/daniel-zhiyi-deng/" target="_blank"><h1>Hi, I'm Daniel!</h1></a>
+# [Hi, I'm Daniel!](https://www.linkedin.com/in/daniel-zhiyi-deng/)
 
 
 <h2>💻 Cybersecurity Projects:</h2>
