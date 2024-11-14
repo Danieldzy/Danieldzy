@@ -1,6 +1,6 @@
 # [Hi, I'm Daniel!](https://www.linkedin.com/in/daniel-zhiyi-deng/)
 
-<h2>🌥️ Cloud security Project:</h2>
+<h2>🌥️ Cloud Security Project:</h2>
 
 - <b>Build A Honeypot in Cloud and Monitor malicious traffic using Microsoft Sentinel</b>
   - [Honeypot in the Cloud](https://github.com/Danieldzy/HoneyPot-in-Azure)
