@@ -32,6 +32,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/daniel-zhiyi-deng-65a0052b3/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/daniel-zhiyi-deng" target="_blank" rel="noopener noreferrer">
   <img alt="DanielDeng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
